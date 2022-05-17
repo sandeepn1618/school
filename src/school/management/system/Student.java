@@ -58,7 +58,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student's name :" + name +
+        return "Student's  name :" + name +
                 " Total fees paid so far $" + feesPaid;
     }
 }

@@ -42,7 +42,7 @@ public class Teacher {
      * Removes from the total money earned by the school.
      */
     public void receiveSalary(int salary) {
-        salaryEarned += salary;
+        salaryEarned +=  salary;
         School.updateTotalMoneySpent(salary);
     }
 
