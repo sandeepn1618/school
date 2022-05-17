@@ -9,7 +9,6 @@ public class Teacher {
 
     /**
      * Creates a new teacher object
-     *
      * @param id
      * @param name
      * @param salary

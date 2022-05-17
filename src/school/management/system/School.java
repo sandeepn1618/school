@@ -67,7 +67,6 @@ public class School {
 
     /**
      * Adds a student to the school
-     *
      * @param student the student to be added.
      */
     public void addStudent(Student student) {
