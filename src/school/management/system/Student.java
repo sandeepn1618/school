@@ -19,7 +19,7 @@ public class Student {
     }
 
     public void payFees(int fees) {
-        // feesPaid =feesPaid + fees
+        // feesPaid = feesPaid + fees
         feesPaid += fees;
         School.updateTotalMoneyEarned(feesPaid);
     }
