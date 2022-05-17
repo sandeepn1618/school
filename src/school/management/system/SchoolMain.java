@@ -33,7 +33,7 @@ public class SchoolMain {
 
 
         neha.payFees(5000);
-        subha.payFees(6000);
+        subha.payFees(6500);
         System.out.println("CPG has earned $" + ghs.getTotalMoneyEarned());
 
         System.out.println("------Making SCHOOL PAY SALARY----");
